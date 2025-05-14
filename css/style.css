@@ -17,6 +17,15 @@ ul{
     border-color: black;
     border-width: auto;
     border-style: solid;
+    font-size: 2rem;
+}
+
+dd{
+    padding-bottom: 5px;
+}
+
+dt{
+    font-weight: bold;
 }
 
 li{
